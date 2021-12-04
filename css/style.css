@@ -1,0 +1,26 @@
+.first{
+    background: blue;
+    width: 80px;
+color: white;
+}
+h1{
+    color: red;
+}
+.hh1{
+    background: green;
+    color: white;
+}
+
+.hh2{
+    background: green;
+    padding: 50px;
+    color: white;
+}
+.hh3{
+    background: green;
+    color: white;
+}
+
+li{
+border: 1px solid #000;
+}
